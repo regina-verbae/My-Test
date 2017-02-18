@@ -11,6 +11,8 @@ use warnings;
 
 use Moo::Role;
 
+our $VERSION = '0.01';
+
 =pod
 
 =head1 DESCRIPTION

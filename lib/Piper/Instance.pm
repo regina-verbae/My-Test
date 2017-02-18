@@ -25,6 +25,8 @@ use overload (
     fallback => 1,
 );
 
+our $VERSION = '0.01';
+
 =head1 DESCRIPTION
 
 The object representing an initialized pipeline segment in the L<Piper> system.
