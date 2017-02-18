@@ -146,7 +146,7 @@ has enabled => (
 
 =head2 id
 
-A globally uniq ID for the segment.  This is primarily useful for debugging only.
+A globally unique ID for the segment.  This is primarily useful for debugging only.
 
 =cut
 

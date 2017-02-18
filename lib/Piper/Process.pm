@@ -136,7 +136,7 @@ Via the provided C<$instance> object (L<Piper::Instance>), the handler has sever
     $instance->injectAt($location, @data)
     $instance->recycle(@data)
 
-See L<Piper> or L<Piper::Instance> for an explantion of these methods.
+See L<Piper> or L<Piper::Instance> for an explanation of these methods.
 
 Example handler:
 
@@ -155,7 +155,7 @@ has handler => (
 
 =head2 id
 
-A globally uniq ID for the segment.  This is primarily useful for debugging only.
+A globally unique ID for the segment.  This is primarily useful for debugging only.
 
 =head2 label
 
